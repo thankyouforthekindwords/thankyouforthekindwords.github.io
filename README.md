@@ -1,3 +1,3 @@
-# thankyouforthekindwords.github.io
+# Thank you for the kind words
 ## This is a test
 Hello my name is ...
